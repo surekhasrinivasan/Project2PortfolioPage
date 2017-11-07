@@ -1,0 +1,29 @@
+    .navbar{
+        background-color: #99ddff;  
+          	font-family:Arial;
+          	font-size:1.5em;
+          	font-weight:bold;
+            margin-bottom: 0px;
+    }
+    .jumbotron {
+        background-color: #ffb3b3;
+        margin-bottom: 0px;
+    }
+    .sectionTwo{
+        background-color: #99ffe6;
+        margin-bottom: 0px;
+    }
+    .sectionThree{
+        margin-top: 0px;
+        background-color: #ffffe6;
+        margin-bottom: 0px;
+    }
+    .sectionFour{
+        background-color: #ffd9b3;
+        margin-bottom: 0px;
+    }
+    .footer{
+        margin-top: 0px;
+        background-color:#99ddff;
+        text-align: center;
+    }
